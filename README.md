@@ -1,5 +1,8 @@
 
-# SetWindowDisplayAffinity-Bypass : Bypassing Window Capture Protection on Windows (Educational)
+# SetWindowDisplayAffinity-Bypass : Bypassing Window Capture Protection on Windows (Final Version)
+
+## Previous Research
+* Driver solution is ready in https://github.com/TopSoftdeveloper/Bypass-SetWindowDisplayAffinity
 
 ## Overview
 
@@ -11,8 +14,6 @@ On Microsoft Windows, applications can restrict screen capturing by using the **
 These flags are commonly used to prevent screenshots and screen recording by most capture tools (e.g. Print Screen, Snipping Tool, OBS, etc.).
 
 This repository demonstrates a **non-invasive technique** to capture screenshots of such protected windows **without using DLL injection** or API hooking.
-
-> ⚠️ **This project is strictly for educational and research purposes.**
 
 ---
 
@@ -53,20 +54,9 @@ This repository builds upon the idea to show how screenshots can still be obtain
 * ❌ Not intended for production or malicious usage
 
 ---
+## Result
 
-## Disclaimer
-
-This project is provided **for educational and academic research only**.
-
-You are responsible for:
-
-* Complying with local laws and regulations
-* Respecting software licenses and privacy policies
-* Using this knowledge ethically
-
-The author **does not condone** misuse of this technique for privacy invasion, DRM circumvention, or any illegal activity.
-
----
+Check video.mp4 file to understand how it works.
 
 ## Contact & Support
 
